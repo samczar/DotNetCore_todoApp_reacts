@@ -21,5 +21,3 @@ Run `npm run webpack-production` to build the production JS.
 
 Run `npm run test`.
 
-## License
-[MIT](https://github.com/eXavera/Todo-app-sample/blob/master/LICENSE.md)
